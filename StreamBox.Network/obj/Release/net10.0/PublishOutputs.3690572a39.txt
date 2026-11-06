@@ -1,0 +1,9 @@
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Network\bin\Release\net10.0\publish\web\app.js
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Network\bin\Release\net10.0\publish\web\index.html
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Network\bin\Release\net10.0\publish\web\player.js
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Network\bin\Release\net10.0\publish\web\styles.css
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Network\bin\Release\net10.0\publish\StreamBox.Network.dll
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Network\bin\Release\net10.0\publish\StreamBox.Network.deps.json
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Network\bin\Release\net10.0\publish\StreamBox.Network.pdb
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Network\bin\Release\net10.0\publish\StreamBox.Core.dll
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Network\bin\Release\net10.0\publish\StreamBox.Core.pdb
