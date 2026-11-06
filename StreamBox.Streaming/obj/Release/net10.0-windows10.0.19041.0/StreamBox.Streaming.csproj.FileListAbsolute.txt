@@ -1,0 +1,15 @@
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Streaming\obj\Release\net10.0-windows10.0.19041.0\StreamBox.Streaming.csproj.AssemblyReference.cache
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Streaming\obj\Release\net10.0-windows10.0.19041.0\StreamBox.Streaming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Streaming\obj\Release\net10.0-windows10.0.19041.0\StreamBox.Streaming.AssemblyInfoInputs.cache
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Streaming\obj\Release\net10.0-windows10.0.19041.0\StreamBox.Streaming.AssemblyInfo.cs
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Streaming\obj\Release\net10.0-windows10.0.19041.0\StreamBox.Streaming.csproj.CoreCompileInputs.cache
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Streaming\bin\Release\net10.0-windows10.0.19041.0\StreamBox.Streaming.deps.json
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Streaming\bin\Release\net10.0-windows10.0.19041.0\StreamBox.Streaming.dll
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Streaming\bin\Release\net10.0-windows10.0.19041.0\StreamBox.Streaming.pdb
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Streaming\bin\Release\net10.0-windows10.0.19041.0\StreamBox.Core.dll
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Streaming\bin\Release\net10.0-windows10.0.19041.0\StreamBox.Core.pdb
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Streaming\obj\Release\net10.0-windows10.0.19041.0\StreamBo.1F25AA35.Up2Date
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Streaming\obj\Release\net10.0-windows10.0.19041.0\StreamBox.Streaming.dll
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Streaming\obj\Release\net10.0-windows10.0.19041.0\refint\StreamBox.Streaming.dll
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Streaming\obj\Release\net10.0-windows10.0.19041.0\StreamBox.Streaming.pdb
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Streaming\obj\Release\net10.0-windows10.0.19041.0\ref\StreamBox.Streaming.dll

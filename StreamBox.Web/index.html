@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="color-scheme" content="dark" />
+  <title>StreamBox</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div id="screen" data-state="idle">
+    <video id="video" playsinline preload="none"></video>
+    <div class="scrim"></div>
+
+    <header class="topbar">
+      <div class="brand">
+        <span class="logo" aria-hidden="true"><span class="logo-play"></span></span>
+        <span class="brand-name">StreamBox</span>
+      </div>
+      <div class="host">
+        <span id="host-name">Computador</span>
+        <span id="link-dot" class="dot" data-link="offline" title="Estado da conexão"></span>
+      </div>
+    </header>
+
+    <main class="stage">
+      <section id="panel-idle" class="card">
+        <div class="pulse" aria-hidden="true"></div>
+        <h1>Pronto para receber</h1>
+        <p>Inicie uma transmissão no <strong>StreamBox</strong> do computador.</p>
+        <p class="muted" id="idle-detail">Procurando o computador na rede local…</p>
+      </section>
+
+      <section id="panel-ready" class="card" hidden>
+        <div class="badge">Transmissão disponível</div>
+        <h1 id="ready-title">Janela do computador</h1>
+        <p class="muted" id="ready-detail"></p>
+        <button id="btn-play" class="btn primary" type="button">Assistir agora</button>
+        <p class="hint">Pressione <kbd>OK</kbd> no controle remoto</p>
+      </section>
+
+      <section id="panel-error" class="card" hidden>
+        <div class="badge danger">Falha na reprodução</div>
+        <h1>Não foi possível reproduzir</h1>
+        <p class="muted" id="error-detail"></p>
+        <button id="btn-retry" class="btn primary" type="button">Tentar novamente</button>
+      </section>
+    </main>
+
+    <div id="spinner" class="spinner" hidden>
+      <span class="spinner-ring"></span>
+      <span id="spinner-label">Conectando…</span>
+    </div>
+
+    <div id="overlay" class="overlay" hidden>
+      <div class="overlay-card">
+        <h2>Informações da conexão</h2>
+        <dl class="info">
+          <div><dt>Computador</dt><dd id="info-host">—</dd></div>
+          <div><dt>Janela</dt><dd id="info-window">—</dd></div>
+          <div><dt>Resolução</dt><dd id="info-resolution">—</dd></div>
+          <div><dt>Codec</dt><dd id="info-codec">—</dd></div>
+          <div><dt>Encoder</dt><dd id="info-encoder">—</dd></div>
+          <div><dt>Taxa de quadros</dt><dd id="info-fps">—</dd></div>
+          <div><dt>Bitrate</dt><dd id="info-bitrate">—</dd></div>
+          <div><dt>Buffer</dt><dd id="info-buffer">—</dd></div>
+          <div><dt>Espectadores</dt><dd id="info-viewers">—</dd></div>
+          <div><dt>Tempo no ar</dt><dd id="info-uptime">—</dd></div>
+        </dl>
+        <div class="overlay-actions">
+          <button id="btn-disconnect" class="btn ghost" type="button">Desconectar</button>
+          <button id="btn-close-overlay" class="btn primary" type="button">Fechar</button>
+        </div>
+      </div>
+    </div>
+
+    <footer id="hud" class="hud" hidden>
+      <span class="chip" id="chip-fps">— fps</span>
+      <span class="chip" id="chip-bitrate">—</span>
+      <span class="chip" id="chip-buffer">—</span>
+      <span class="chip muted" id="chip-help">OK: informações · Voltar: sair</span>
+    </footer>
+  </div>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>
