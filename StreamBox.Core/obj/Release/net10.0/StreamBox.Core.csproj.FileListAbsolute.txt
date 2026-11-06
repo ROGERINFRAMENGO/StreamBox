@@ -1,0 +1,11 @@
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Core\bin\Release\net10.0\StreamBox.Core.deps.json
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Core\bin\Release\net10.0\StreamBox.Core.dll
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Core\bin\Release\net10.0\StreamBox.Core.pdb
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Core\obj\Release\net10.0\StreamBox.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Core\obj\Release\net10.0\StreamBox.Core.AssemblyInfoInputs.cache
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Core\obj\Release\net10.0\StreamBox.Core.AssemblyInfo.cs
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Core\obj\Release\net10.0\StreamBox.Core.csproj.CoreCompileInputs.cache
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Core\obj\Release\net10.0\StreamBox.Core.dll
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Core\obj\Release\net10.0\refint\StreamBox.Core.dll
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Core\obj\Release\net10.0\StreamBox.Core.pdb
+C:\Users\ROGERIIIIN\Documents\StreamBox\src\StreamBox.Core\obj\Release\net10.0\ref\StreamBox.Core.dll
